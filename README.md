@@ -92,7 +92,7 @@ Pronto agora é só rodar
 - Sem as *imagens* e o arquivo *txt* o programa **não** funciona!
 - Algum *Bug* pode ocorrer, portanto, me **notifique!**
 
-### Owner <a href="https://github.com/peh3k">peh3k</a>
+### Author <a href="https://github.com/peh3k">peh3k</a>
 
 [⬆ Voltar ao topo](#conversor-de-bases-numericas)<br>
 
