@@ -90,6 +90,7 @@ Pronto agora é só rodar
 - Baixe as *imagens* e o arquivo '*usr.txt*' e os coloque em uma pasta
 - Rode o código dentro dessa mesma pasta
 - Sem as *imagens* e o arquivo *txt* o programa **não** funciona!
+- Quando a janela do *WebDriver* abrir, use o atalho **Ctrl + Shift + C**
 - Algum *Bug* pode ocorrer, portanto, me **notifique!**
 
 ### Author <a href="https://github.com/peh3k">peh3k</a>
